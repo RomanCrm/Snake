@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 6dc9b48a585454640aefc5e13e583c3b
+timeCreated: 1519658700
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Silkscreen
+  fontNames:
+  - Silkscreen
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 47035684e54ada94c856d81ceefa6d2e, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
